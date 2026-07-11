@@ -4,7 +4,7 @@
 # version and the dmg checksum are filled in at render time.
 cask "unplot" do
   version "0.1.2"
-  sha256 "f19ed99468313ea6ae0b3addf1fdff9b072a1f703d9d9e802c84980eb9c530ba"
+  sha256 "0e525e0983ac9eb684a588d121288e9bbcb19f7a3ea84d7ede5fd6a4b3ccee4e"
 
   # The release tag is `v#{version}`, but the asset filename has no leading `v`.
   url "https://github.com/vitorwilson/unplot/releases/download/v#{version}/unplot_#{version}_universal.dmg"
