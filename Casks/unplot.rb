@@ -1,7 +1,7 @@
 # GENERATED from packaging/homebrew/unplot.rb.tmpl in github.com/vitorwilson/unplot
 # by `bin/render-packaging cask`. Do not edit the tap copy by hand — edit the
-# template and re-render. The release pipeline pushes updates automatically; see
-# docs/packaging.md. The version and the dmg checksum are filled in at render time.
+# template and re-render. The release pipeline pushes updates automatically. The
+# version and the dmg checksum are filled in at render time.
 cask "unplot" do
   version "0.1.2"
   sha256 "f19ed99468313ea6ae0b3addf1fdff9b072a1f703d9d9e802c84980eb9c530ba"
